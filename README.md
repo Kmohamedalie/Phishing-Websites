@@ -4,7 +4,7 @@
 
 ### **Achieved Accuracy, Precision, Recall:** 97.01%
 
-### **Notebook:** [Link](https://archive.ics.uci.edu/dataset/327/phishing+websites)
+### **Notebook:** [Link](https://github.com/Kmohamedalie/Phishing-Websites/tree/master/Notebook)
 
 ### **Additional Information**
 
