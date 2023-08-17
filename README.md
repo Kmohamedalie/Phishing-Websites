@@ -4,7 +4,7 @@
 
 ### **Achieved Accuracy, Precision, Recall:** 97.01%
 
-### **Notebook:** [Link](https://github.com/Kmohamedalie/Phishing-Websites/tree/master/Notebook)
+### **Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Phishing-Websites/tree/master/Notebook)
 
 ### **Additional Information**
 
