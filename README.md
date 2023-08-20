@@ -2,12 +2,18 @@
 
 
 
-### **Achieved Accuracy, Precision, Recall:** 97.01%
-
 ### **Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Phishing-Websites/tree/master/Notebook)
 
-### **Additional Information**
 
+### **Metrics:**
+
+| Algorithm | Precision | Recall | F1-score | Accuracy |
+|-----------|-----------|--------|----------|----------|
+| Xgboost   | 97.01%    |  97.01% | 97.01%  | 97.01%   |
+
+
+
+### **Additional Information about the dataset**
 Creators: Rami Mohammad,      Lee McCluskey
 
 This dataset collected mainly from: PhishTank archive, MillerSmiles archive, Googleâ€™s searching operators.
